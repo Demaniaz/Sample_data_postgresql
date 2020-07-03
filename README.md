@@ -1,5 +1,5 @@
-# Sample Data Training Pentaho
-# Latihan 2 - Pengolahan Data menggunakan Database  
+<h1> Sample Data Training Pentaho </h1>
+<h2> Latihan 2 - Pengolahan Data menggunakan Database </h2>
 
 Dataset berupa:
 - Master 34 Provinsi
